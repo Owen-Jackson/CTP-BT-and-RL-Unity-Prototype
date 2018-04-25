@@ -5,5 +5,5 @@ Controls:
 P: Pause  
 Space: Switch scenes  
 Escape: Quit  
-(in player scene) WASD: Move Player
-(in player scene) Mouse: Turn Player
+(in player scene) WASD: Move Player  
+(in player scene) Mouse: Turn Player  
