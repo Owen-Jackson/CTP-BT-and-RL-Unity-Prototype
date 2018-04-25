@@ -117,7 +117,10 @@ fce9c756a3fa139f9c5d2e8c7cedbe6e Assembly-CSharp.dll:.MudCrab
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DisplayFireVariables
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ActionPoolTest
 9d30883771495786b4af8cf916e2b305 Assembly-CSharp.dll:.HealZone
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+05524b8f659e7bfe5756d1335fec24ba UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 fce9c756a3fa139f9c5d2e8c7cedbe6e Assembly-CSharp.dll:.FireElemental
+63476c3cd723e567416f94104be571f7 Assembly-CSharp.dll:.DebugControl
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery
@@ -154,4 +157,3 @@ fce9c756a3fa139f9c5d2e8c7cedbe6e Assembly-CSharp.dll:.Enemy
 c954cdae482e372ef4fba89869c43a55 Assembly-CSharp.dll:.PlayerPerceptor
 4d24eaa3fa0c9dfe0dbf20e6692346c8 Assembly-CSharp.dll:.Patrol
 9d3d422752adc899b88b8ee69938b48e Assembly-CSharp.dll:.DynamicTreeTest
-63476c3cd723e567416f94104be571f7 Assembly-CSharp.dll:.DebugControl
